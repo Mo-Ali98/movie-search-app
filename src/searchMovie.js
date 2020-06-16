@@ -28,7 +28,7 @@ export default function SearchMovies(){
             console.error(err);
         }
     }
-
+    //Render the HTML Form and Movies
     return (
         <>
         <form className="form" onSubmit={searchMovies}>
