@@ -69,5 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Uses The Movie Database API
 https://developers.themoviedb.org/3/getting-started/introduction
-
-
