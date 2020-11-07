@@ -2,7 +2,7 @@
 
 Created using React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Uses The Movie Database API
+# Uses The Movie Database API
 https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Available Scripts
