@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Movie Search App 
+
+Created using React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Uses The Movie Database API
+https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Available Scripts
 
@@ -66,6 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-### Uses The Movie Database API
-https://developers.themoviedb.org/3/getting-started/introduction
